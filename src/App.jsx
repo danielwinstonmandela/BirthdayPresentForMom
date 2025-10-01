@@ -407,7 +407,7 @@ export default function BirthdaySite() {
               }}
               className="main-title glowing-text"
             >
-              {"Happy Birthday Mom 🎂".split("").map((char, i) => (
+              {"Happy Birthday Mama!".split("").map((char, i) => (
                 <motion.span
                   key={i}
                   initial={{ opacity: 0, y: 20 }}
