@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "images": "node generate-images.js",
+    "images:watch": "node generate-images.js --watch",
+    "images:help": "echo '📁 Drop images in public/images/ then run: npm run images'"
+  }
+}
